@@ -41,5 +41,7 @@ int main()
     
     delete[] b;
 
+    std::cout << "Ismerose atnezte a kodot, jonak iteltem meg!" << atlag << std::endl;
+
     return 0;
 }
